@@ -3,7 +3,7 @@ Maps-Friends
 
 View the Firefox OS user to Maps Friends
 
-![alt text](http://iddar-geotest.iddar.jit.su/images/screnn.png "Scrennshot de la aplicacion Maps-Friends")
+![alt text](http://iddar-geotest.iddar.jit.su/images/screen.png "Scrennshot de la aplicacion Maps-Friends")
 
 ###Pasos para la instalación para pruebas locales
 
