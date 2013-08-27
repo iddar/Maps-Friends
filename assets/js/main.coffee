@@ -1,6 +1,20 @@
 # Funcion main
 onScript = ->
 
+	$("#fullbt").click (e)->
+		e.preventDefault()
+		$("#map").addClass("full")
+		$('#mapcontiner').append("<a class='btmin' href='#'> <i class='icon-fullscreen'></i> </a>")
+		tiles.redraw()
+		map.addLayer tiles
+		return
+
+	$('#mapcontiner').on 'click', ".btmin", (e)->
+		e.preventDefault()
+		$("#map").removeClass("full")
+		$(this).hide()
+		return
+
 	socket = io.connect(window.location.href)
 	map = L.map "map",
 		center: [19.21021, -96.17367]

@@ -1,6 +1,6 @@
 {
   "name": "Maps-Friends",
-  "version": "0.0.1-6",
+  "version": "0.0.1-10",
   "private": true,
   "scripts": {
     "start": "coffee app/app.coffee"
