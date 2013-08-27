@@ -28,4 +28,15 @@ Probar la aplicacion en tu simulador o equipo con Firefox OS
 
 La app esta en una etapa temprana de su desarrollo aun tiene varios bug y falta agregar funcionalidad. 
 
+Las tecnologias usadas en esta app se lista acontinuación.
+
+- Node.js
+- Socket.io
+- Express Framework
+- Coffescript
+- Stylus
+- Jade
+- Leafletjs
+- Bootstrap
+
 Esta App fue desarrollada por **Iddar Olivares** para el Reto de **Mozilla Mexico**.
