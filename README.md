@@ -15,3 +15,9 @@ Probar la aplicacion en tu simulador o equipo con Firefox OS
 `Debe estar corriendo el servidor`
 - Agrega la app a tu panel de administracion (http://ip-local/manifest.webapp)
 - Corre en el simulador o carga a tu dispositivo.
+
+Servidor temporal `http://iddar-geotest.iddar.jit.su`
+URL del archivo manifest `http://iddar-geotest.iddar.jit.su/manifest.webapp`
+
+
+Esta App fue desarrollada por +Iddar Olivares* para el Reto de *Mozilla Mexico*.
