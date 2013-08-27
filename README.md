@@ -3,6 +3,8 @@ Maps-Friends
 
 View the Firefox OS user to Maps Friends
 
+Esta sensilla aplicación muestra los puntos donde se encuentren los usuarios de la misma. Con la intencion de localizar a otros usuarios de firefox OS para poder compartir opiones socializar etc. En un futuro se espera poder agregar un modelo mas social e integracion con redes como Facebook o Twitter.
+
 ![alt text](http://iddar-geotest.iddar.jit.su/images/screen.png?v=2 "Scrennshot de la aplicacion Maps-Friends")
 
 ###Pasos para la instalación para pruebas locales
