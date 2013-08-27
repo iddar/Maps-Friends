@@ -3,6 +3,8 @@ Maps-Friends
 
 View the Firefox OS user to Maps Friends
 
+![alt text](http://iddar-geotest.iddar.jit.su/images/screnn.png "Scrennshot de la aplicacion Maps-Friends")
+
 ###Pasos para la instalación para pruebas locales
 
 - Instala Node.js
@@ -21,5 +23,7 @@ Probar la aplicacion en tu simulador o equipo con Firefox OS
 	Servidor temporal `http://iddar-geotest.iddar.jit.su`
 	URL del archivo manifest `http://iddar-geotest.iddar.jit.su/manifest.webapp`
 
+
+La app esta en una etapa temprana de su desarrollo aun tiene varios bug y falta agregar funcionalidad. 
 
 Esta App fue desarrollada por **Iddar Olivares** para el Reto de **Mozilla Mexico**.
