@@ -7,6 +7,8 @@ Esta sensilla aplicación muestra los puntos donde se encuentren los usuarios de
 
 ![alt text](http://iddar-geotest.iddar.jit.su/images/screen.png?v=2 "Scrennshot de la aplicacion Maps-Friends")
 
+[Ver mas capturas](https://github.com/iddar/Maps-Friends/tree/master/public/images/caps)
+
 ###Pasos para la instalación para pruebas locales
 
 - Instala Node.js
@@ -22,8 +24,8 @@ Probar la aplicacion en tu simulador o equipo con Firefox OS
 
 #### Datos del servidor temporal.
 
-	Servidor temporal `http://iddar-geotest.iddar.jit.su`
-	URL del archivo manifest `http://iddar-geotest.iddar.jit.su/manifest.webapp`
+	Servidor temporal: http://iddar-geotest.iddar.jit.su
+	URL del archivo manifest: http://iddar-geotest.iddar.jit.su/manifest.webapp
 
 
 La app esta en una etapa temprana de su desarrollo aun tiene varios bug y falta agregar funcionalidad. 
