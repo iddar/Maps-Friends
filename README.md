@@ -22,6 +22,21 @@ Probar la aplicacion en tu simulador o equipo con Firefox OS
 - Agrega la app a tu panel de administracion (http://ip-local/manifest.webapp)
 - Corre en el simulador o carga a tu dispositivo.
 
+
+### Permisos
+
+- GeoLocation API
+- Websocket
+
+```json
+"permissions": {
+    "geolocation": { 
+    "description": "Requerimos tu posicion en el globo." 
+  }
+}...
+```
+
+
 #### Datos del servidor temporal.
 
 	Servidor temporal: http://iddar-geotest.iddar.jit.su
